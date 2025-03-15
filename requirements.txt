@@ -1,0 +1,6 @@
+PyPDF2
+spacy
+fastapi
+uvicorn
+streamlit
+pymongo

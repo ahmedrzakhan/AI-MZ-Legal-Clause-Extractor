@@ -123,3 +123,9 @@ Legal-Clause-Extraction-Tool/
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
+
+## User Interface
+
+The application provides a simple interface for uploading and processing legal documents:
+
+![Application Screenshot](images/s-lit.png)
